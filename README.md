@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mylespking
+- 👀 I’m interested in Food 🍲, Fun 🤩 and Brazillian Jiu-Jitsu 🥋 
+- 🌱 I’m currently learning Vue.js in my spare time and .net mvc in my current role!
+- 📫 Please check out my website mylespking.co.uk for how to contact me 📧 
